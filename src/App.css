@@ -1,0 +1,26 @@
+.Tilt{
+  margin-top: 10px;
+  margin-left: 30px;
+  background-color: #111;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+}
+.Tilt-inner{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.logo_main{
+  height: 100px;
+}
+.particles{
+  position: fixed;
+  top:0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -2; 
+} 
+
