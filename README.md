@@ -46,5 +46,3 @@ Tell me about {movie_name}
 Go back
 
 Alan Thank You
-
-
