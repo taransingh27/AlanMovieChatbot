@@ -23,10 +23,6 @@ Anushka Saraswat B.Tech 4th year GLA University
 
 Github:Anushka2812
 
-Naman Shukla B.Tech 4th year GLA University
-
-Github:naman22
-
 Rahul Sharma B.Tech 4th year GLA University 
 
 Github:Kingrtr95
